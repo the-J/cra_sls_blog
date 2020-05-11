@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-craslsblog-dev-202219-authRole",
+            "UnauthRoleArn": "arn:aws:iam::584169389934:role/amplify-craslsblog-dev-202219-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::584169389934:role/amplify-craslsblog-dev-202219-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-craslsblog-dev-202219-deployment",
+            "UnauthRoleName": "amplify-craslsblog-dev-202219-unauthRole",
+            "StackName": "amplify-craslsblog-dev-202219",
+            "StackId": "arn:aws:cloudformation:eu-west-1:584169389934:stack/amplify-craslsblog-dev-202219/5b1ee850-93b4-11ea-9d5a-0ace5b4cd800",
+            "AmplifyAppId": "d3leryp8m9k3pl"
+        },
+        "categories": {
+            "auth": {
+                "craslsblogfe17fe38": {}
+            }
+        }
+    }
+}
